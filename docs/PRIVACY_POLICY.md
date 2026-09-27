@@ -1,7 +1,7 @@
 # Privātuma politika — LatvianTalk AI
 
-**Versija:** 1.0
-**Spēkā no:** 2026-04-25
+**Versija:** 1.1
+**Spēkā no:** 2026-09-27
 **Pārzinis:** LatvianTalk AI komanda (kontakts: sergey.krasnikov@gmail.com)
 
 Šī politika apraksta, kādus personas datus apstrādā mobilā lietotne LatvianTalk AI un kādēļ. Lietojot lietotni, jūs apstiprināt, ka esat iepazinies ar šo politiku.
@@ -10,7 +10,7 @@
 
 | Datu kategorija | Mērķis | Juridiskais pamats | Glabāšana |
 |---|---|---|---|
-| **Balss straume** (mikrofona ieraksts sarunas laikā) | Sarunas vadīšana ar AI skolotāju | Piekrišana (VDAR 6.1.a) | Mēs neglabājam. Tiek pārraidīts tiešsaistē uz ElevenLabs apstrādei. |
+| **Balss straume** (mikrofona ieraksts sarunas laikā) | Sarunas vadīšana ar AI skolotāju | Piekrišana (VDAR 6.1.a) | Mēs neglabājam. Tiek pārraidīts tiešsaistē uz OpenAI apstrādei. |
 | **Kļūdu vēsture** (gramatikas kategorijas un piemēri) | Skolotāja pielāgošana jūsu vājajām vietām | Piekrišana | Tikai lokāli ierīcē (Room datu bāze) līdz tās dzēšanai vai lietotnes atinstalēšanas. |
 | **Sesiju metadati** (sākuma/beigu laiks, sarunas ID) | Statistikas attēlošana | Piekrišana | Tikai lokāli ierīcē. |
 
@@ -18,9 +18,9 @@ Mēs **neapkopojam**: vārdu, e-pastu, atrašanās vietu, kontaktus, ierīces id
 
 ## 2. Apakšprocesori
 
-- **ElevenLabs Inc.** (ASV) — sniedz balss-uz-tekstu un AI skolotāja servisu. Balss straume tiek pārraidīta tiešsaistē. ElevenLabs glabāšanas politika: skat. https://elevenlabs.io/privacy.
+- **OpenAI, L.L.C.** (ASV) — sniedz runas atpazīšanas un AI skolotāja servisu (Realtime API). Balss straume tiek pārraidīta tiešsaistē. OpenAI glabāšanas politika: skat. https://openai.com/policies/privacy-policy.
 
-Datu pārsūtīšanas uz ASV pamats: ElevenLabs Datu apstrādes vienošanās (DPA) un standarta līguma klauzulas.
+Datu pārsūtīšanas uz ASV pamats: OpenAI Datu apstrādes papildinājums (DPA) un standarta līguma klauzulas.
 
 ## 3. Jūsu tiesības (VDAR III nodaļa)
 
