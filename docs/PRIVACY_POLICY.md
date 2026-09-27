@@ -30,8 +30,8 @@ Datu pārsūtīšanas uz ASV pamats: datu apstrādes vienošanās (DPA) ar OpenA
 ## 3. Jūsu tiesības (VDAR III nodaļa)
 
 - **Piekļuve un kopija** — kļūdu vēsture un vārdu krājuma profils ir redzami "Statistika" ekrānā lietotnē.
-- **Dzēšana** — "Notīrīt" poga "Statistika" ekrānā dzēš visu kļūdu vēsturi gan ierīcē, gan mākonī. Vārdu krājuma profila vārdus tur pašu var dzēst pa vienam. Lai dzēstu sesiju metadatus un visu kontu, rakstiet mums uz e-pastu.
-- **Piekrišanas atsaukšana** — lietotnes atinstalēšana dzēš datus ierīcē, bet **nedzēš** datus mākonī; par to rakstiet mums uz e-pastu.
+- **Dzēšana** — "Notīrīt" poga "Statistika" ekrānā dzēš visu kļūdu vēsturi gan ierīcē, gan mākonī; vārdu krājuma profila vārdus tur pat var dzēst pa vienam. Poga "Dzēst kontu" tajā pašā ekrānā izdzēš visu uzreiz: kļūdu vēsturi, vārdu krājuma profilu, sesiju metadatus, iestatījumus un pašu kontu — gan ierīcē, gan mākonī. To nevar atsaukt.
+- **Piekrišanas atsaukšana** — "Dzēst kontu" izdzēš datus un vienlaikus atsauc piekrišanu. Vienkārša lietotnes atinstalēšana dzēš tikai datus ierīcē, mākonī tie paliek.
 - **Sūdzība** — Datu valsts inspekcijai (https://www.dvi.gov.lv).
 
 ## 4. Vecuma ierobežojums
